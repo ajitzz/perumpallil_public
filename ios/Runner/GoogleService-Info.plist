@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>498697545095-pobta35d21cfu4ae2babm1kvk8q7lm2g.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.498697545095-pobta35d21cfu4ae2babm1kvk8q7lm2g</string>
+	<key>API_KEY</key>
+	<string>AIzaSyAlCzcwwJYkwZGfO76o-K4VZimKPdQ-UaI</string>
+	<key>GCM_SENDER_ID</key>
+	<string>498697545095</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.perumpallilfinance.attempt1</string>
+	<key>PROJECT_ID</key>
+	<string>perumpallil-finance1</string>
+	<key>STORAGE_BUCKET</key>
+	<string>perumpallil-finance1.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:498697545095:ios:2b995c9637e1168e43df22</string>
+</dict>
+</plist>

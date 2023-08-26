@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "498697545095",
+    "project_id": "perumpallil-finance1",
+    "storage_bucket": "perumpallil-finance1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:498697545095:android:e25e98ad08cd041343df22",
+        "android_client_info": {
+          "package_name": "com.perumpallilfinance.attempt1"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "498697545095-e7m8ah5gqns4qgu8sb4s9gnhu8e86lb6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyArh5EcOtdBP5FMFbV0udNhK8IF5JfYa0w"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "498697545095-e7m8ah5gqns4qgu8sb4s9gnhu8e86lb6.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
